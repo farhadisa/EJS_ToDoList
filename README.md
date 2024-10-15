@@ -12,4 +12,4 @@
 
 **Css3**
 
-#### *©This app is created with React by me in 2022.*
+#### *©This app is created by me in 2022.*
